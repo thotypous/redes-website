@@ -18,11 +18,15 @@ Por favor, verifique frequentemente pois esta agenda pode sofrer alterações.
 ## Aula 1 (8/8 e 13/8)
 
  * Fundamentos de redes de computadores
- * Leitura adicional recomendada:<br />[Como a Internet tornou-se tão insegura?](https://www.washingtonpost.com/sf/business/2015/05/30/net-of-insecurity-part-1)
+ * Leitura adicional recomendada:
+   * [Como a Internet tornou-se tão insegura?](https://www.washingtonpost.com/sf/business/2015/05/30/net-of-insecurity-part-1)
 
 ## Aula 2 (20/8 e 22/8)
 
  * Camada de aplicação
+ * Leitura adicional recomendada:
+   * [Skype finaliza mudança de P2P para cloud](https://arstechnica.com/information-technology/2016/07/skype-finalizes-its-move-to-the-cloud-ignores-the-elephant-in-the-room/)
+   * [Casos de envenenamento de DNS no Brasil](http://blogs.ne10.uol.com.br/mundobit/2017/01/06/ataque-hacker-aos-servidores-do-uol-redireciona-paginas-do-grupo-para-sites-de-pornografia/)
 
 ## Aula 3 (27/8 e 29/8)
 
