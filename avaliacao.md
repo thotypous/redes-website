@@ -47,7 +47,7 @@ NT = sum(sorted([P1, P2, P3, P4, P5, P6])[-5:]) / 5
 A Nota Prática (NP) é calculada de acordo com a seguinte média ponderada:
 
 ```python
-NL = (1.5*Etapa1 + 1.5*Etapa2 + 1.5*Etapa3 + 1.5*Etapa4 + 4*Etapa5) / 10
+NP = (1.5*Etapa1 + 1.5*Etapa2 + 1.5*Etapa3 + 1.5*Etapa4 + 4*Etapa5) / 10
 ```
 
 ## Nota Final
