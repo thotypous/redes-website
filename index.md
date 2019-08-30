@@ -8,6 +8,6 @@ Utilize o menu superior para acessar as informações sobre a disciplina. A pág
 
 ## Aulas
 
- * Terças-feiras das 14h às 18h<br />Sala LE1 – Departamento de Computação
+ * Terças-feiras das 14h às 18h<br />Sala LE6 – Departamento de Computação
 
  * Quintas-feiras das 8h às 12h<br />Sala LE6 – Departamento de Computação
