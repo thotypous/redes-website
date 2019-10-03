@@ -56,12 +56,12 @@ Por favor, verifique frequentemente pois esta agenda pode sofrer alterações.
 
 ## Aula 7 (8/10 e 10/10)
 
- * **Provinha 3**
- * Projeto – Etapa 3
+ * Camada de rede: plano de controle
 
 ## Aula 8 (15/10 e 17/10)
 
- * Camada de rede: plano de controle
+ * **Provinha 3**
+ * Projeto – Etapa 3
 
 ## Aula 9 (22/10 e 24/10)
 
