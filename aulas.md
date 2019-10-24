@@ -66,6 +66,8 @@ Por favor, verifique frequentemente pois esta agenda pode sofrer alterações.
 ## Aula 9 (22/10 e 24/10)
 
  * Camada de enlace
+ * Leitura adicional recomendada:
+   * [Vídeo: How do CRCs work?](https://youtu.be/izG7qT0EpBw)
 
 ## Aula 10 (29/10 e 31/10)
 
