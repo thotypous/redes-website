@@ -61,7 +61,7 @@ Por favor, verifique frequentemente pois esta agenda pode sofrer alterações.
 ## Aula 8 (15/10 e 17/10)
 
  * **Provinha 3**
- * Projeto – Etapa 3
+ * Projeto – Etapa 2
 
 ## Aula 9 (22/10 e 24/10)
 
@@ -72,7 +72,7 @@ Por favor, verifique frequentemente pois esta agenda pode sofrer alterações.
 ## Aula 10 (29/10 e 31/10)
 
  * **Provinha 4**
- * Projeto – Etapa 4
+ * Projeto – Etapa 3
 
 ## Aula 11 (5/11 e 7/11)
 
@@ -81,7 +81,7 @@ Por favor, verifique frequentemente pois esta agenda pode sofrer alterações.
 ## Aula 12 (12/11 e 14/11)
 
  * **Provinha 5**
- * Projeto – Etapa 5
+ * Projeto – Etapa 4
 
 ## Aula 13 (19/11 e 21/11)
 
