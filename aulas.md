@@ -80,12 +80,12 @@ Por favor, verifique frequentemente pois esta agenda pode sofrer alterações.
 
 ## Aula 12 (12/11 e 14/11)
 
- * **Provinha 5**
- * Projeto – Etapa 4
+ * Fundamentos de segurança de redes
 
 ## Aula 13 (19/11 e 21/11)
 
- * Fundamentos de segurança de redes
+ * **Provinha 5**
+ * Projeto – Etapa 4
 
 ## Aula 14 (26/11 e 28/11)
 
