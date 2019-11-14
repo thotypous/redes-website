@@ -81,6 +81,7 @@ Por favor, verifique frequentemente pois esta agenda pode sofrer alterações.
 ## Aula 12 (12/11 e 14/11)
 
  * Fundamentos de segurança de redes
+ * [Introdução à Criptografia](/static/introducao-criptografia.pdf) (slides do prof. Aranha)
 
 ## Aula 13 (19/11 e 21/11)
 
