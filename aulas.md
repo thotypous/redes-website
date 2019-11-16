@@ -82,6 +82,8 @@ Por favor, verifique frequentemente pois esta agenda pode sofrer alterações.
 
  * Fundamentos de segurança de redes
  * [Introdução à Criptografia](/static/introducao-criptografia.pdf) (slides do prof. Aranha)
+ * Leitura adicional recomendada:
+   * [Modes of operation's failures](https://raw.githubusercontent.com/corkami/pics/master/binary/CryptoModes.png)
 
 ## Aula 13 (19/11 e 21/11)
 
