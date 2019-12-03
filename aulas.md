@@ -95,6 +95,6 @@ Por favor, verifique frequentemente pois esta agenda pode sofrer alterações.
  * **Provinha 6**
  * Projeto – Etapa 5
 
-## Aula 15 (3/12 e 5/12)
+## Aula 15 (**??**/12 e **??**/12 - vide anúncio)
 
  * **Apresentação do projeto**
