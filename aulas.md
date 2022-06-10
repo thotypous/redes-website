@@ -37,7 +37,7 @@ Por favor, verifique frequentemente pois esta agenda pode sofrer alterações.
 * Camada de rede: plano de dados (encaminhamento, protocolo IP, endereçamento)
 * Camada de transporte (controle de congestionamento)
 
-### AvaliaçÕes
+### Avaliações
 
 * 08/07 - mini-teste teórico
 * 22/07 - prazo de entrega do T2 (TCP)
