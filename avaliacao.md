@@ -4,56 +4,33 @@ title: Avaliação
 permalink: /avaliacao/
 ---
 
-# Política sobre plágio e direitos autorais
+# Atividades avaliativas
 
-Não é permitido plágio em quaisquer das atividades avaliativas. Durante as provinhas, é admitido consultar material impresso ou escrito, mas não é permitido qualquer tipo de comunicação ou uso de qualquer dispositivo capaz de conectar-se à rede. No projeto, será aplicado o verificador de similaridade [Moss](https://theory.stanford.edu/~aiken/moss/). Além dos trabalhos dos demais grupos, serão fornecidos ao Moss trabalhos entregues em ofertas anteriores da disciplina e códigos disponíveis na Internet. **Será considerado plágio qualquer resultado com alto índice de similaridade.**
+* 4 práticas de laboratório (P1 a P4) distribuídas ao longo do período letivo;
+* 5 mini testes teóricos (T1 a T5) distribuídos ao longo do período letivo;
+* 1 seminário (S1) ao final do período letivo.
 
+# Nota final
 
-# Projeto
+A nota final NF será calculada de acordo com a seguinte fórmula:
 
-O Projeto é dividido nas seguintes etapas:
-
- * Etapa 1 (camada de aplicação)
- * Etapa 2 (camada de transporte)
- * Etapa 3 (camada de rede)
- * Etapa 4 (camada de enlace)
- * Etapa 5 (etapa final / integração)
-
-Descrições detalhadas serão disponibilizadas no Autolab no dia de lançamento de cada etapa.
-
-**IMPORTANTE**: Sempre antes de entregar cada uma das etapas, os grupos devem ser **cadastrados novamente** no Autolab e todos os integrantes **devem aceitar** novamente o convite. Essa exigência existe para assegurar que todos os alunos inseridos em um grupo estejam realmente participando daquele grupo, e para permitir que os alunos troquem de grupo ao longo da disciplina se assim desejarem.
-
-## Etapas de 1 a 4
-
-As etapas intermediárias do projeto podem ser realizadas em grupos de até 4 alunos.
-
-## Etapa 5
-
-A etapa final pode ser desenvolvida em grupos de até 8 alunos. Ou seja, é possível juntar diferentes grupos das etapas intermediárias em um único grupo para a etapa final. Haverá uma apresentação do projeto final. Essa apresentação poderá ser seguida de perguntas individuais a integrantes do grupo. **Todos os integrantes do grupo precisam estar presentes em um mesmo horário para a apresentação do projeto**.
-
-
-# Cálculo das notas
-
-## Nota Teórica
-
-A Nota Teórica (NT) é calculada como a média das 5 melhores notas em provinhas:
-
-```python
-NT = sum(sorted([P1, P2, P3, P4, P5, P6])[-5:]) / 5
+```
+NF = 0.50 * NP + 0.20 * NT + 0.30 * NS
 ```
 
-## Nota Prática
+onde
 
-A Nota Prática (NP) é calculada de acordo com a seguinte média ponderada:
-
-```python
-NP = (1.5*Etapa1 + 1.5*Etapa2 + 1.5*Etapa3 + 1.5*Etapa4 + 4*Etapa5) / 10
+```
+NP = (P1 + P2 + P3 + P4)/4
+NT = sum(sorted([T1, T2, T3, T4, T5])[-4:])/4    # média das 4 melhores notas em mini-testes teóricos
+NS = S1
 ```
 
-## Nota Final
+#Política de plágio
 
-A Nota Final (NF) é a média da Nota Teórica (NT) com a Nota Prática (NP):
+Qualquer material consultado para a elaboração dos trabalhos deve ser devidamente referenciado quando da entrega. As soluções devem ser originais. Não será admitida cópia de códigos preexistentes, nem compartilhamento de código entre diferentes grupos. Códigos com alto índice de similaridade, como aferido pelo Moss (https://theory.stanford.edu/~aiken/moss), serão considerados cópias.
 
-```python
-NF = (NT + NP) / 2
-```
+Os mini testes teóricos devem ser respondidos de forma individual. Será permitido realizar consulta, mas não será admitido nenhum tipo de colaboração ou de comunicação com terceiros.
+
+As atividades avaliativas em que for detectado plágio terão a nota correspondente zerada.
+
