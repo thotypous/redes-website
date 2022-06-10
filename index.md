@@ -8,7 +8,7 @@ Utilize o menu superior para acessar as informações sobre a disciplina. A pág
 
 ## Aulas
 
- * Sextas-feiras das 8h às 12h<br />Sala LE6 – Departamento de Computação
+ * Sextas-feiras das 8h às 12h<br />Sala LE2 – Departamento de Computação
 
 ## Links
 
