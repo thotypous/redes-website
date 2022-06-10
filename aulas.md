@@ -15,86 +15,70 @@ Kurose, J.; Ross, K. Computer Networking: A Top-Down Approach, 7th Edition, ISBN
 
 Por favor, verifique frequentemente pois esta agenda pode sofrer alterações.
 
-## Aula 1 (8/8 e 13/8)
 
- * Fundamentos de redes de computadores
- * Leitura adicional recomendada:
-   * [Como a Internet tornou-se tão insegura?](https://www.washingtonpost.com/sf/business/2015/05/30/net-of-insecurity-part-1)
+## Aulas 1 a 3 (10/06, 24/06, 01/07)
 
-## Aula 2 (20/8 e 22/8)
+### Tópicos
 
- * Camada de aplicação
- * Leitura adicional recomendada:
-   * [Skype finaliza mudança de P2P para cloud](https://arstechnica.com/information-technology/2016/07/skype-finalizes-its-move-to-the-cloud-ignores-the-elephant-in-the-room/)
-   * [Casos de envenenamento de DNS no Brasil](http://blogs.ne10.uol.com.br/mundobit/2017/01/06/ataque-hacker-aos-servidores-do-uol-redireciona-paginas-do-grupo-para-sites-de-pornografia/)
+* Introdução
+* Camada de aplicação (HTTP, DNS, SMTP, P2P, etc.)
 
-## Aula 3 (27/8 e 29/8)
+### Avaliações
 
- * **Provinha 1**
- * Projeto – Etapa 1
+* 24/06 - mini-teste teórico
+* 01/07 - prazo de entrega do T1 (servidor IRC)
 
-## SBSeg (3/9 e 5/9)
 
- * Não haverá aula ([SBSeg 2019](https://sbseg2019.ime.usp.br))
+## Aulas 4 a 6 (08/07, 15/07, 22/07)
 
-## SeComp (10/9 e 12/9)
+### Tópicos
 
- * Participem das atividades da [X SeComp](https://secompufscar.com.br)!
+* Camada de transporte (UDP, TCP)
+* Camada de rede: plano de dados (encaminhamento, protocolo IP, endereçamento)
+* Camada de transporte (controle de congestionamento)
 
-## Aula 4 (17/9 e 19/9)
+### AvaliaçÕes
 
- * Camada de transporte
+* 08/07 - mini-teste teórico
+* 22/07 - prazo de entrega do T2 (TCP)
 
-## Aula 5 (24/9 e 26/9)
+## Aulas 7 a 8 (29/07, 05/08)
 
- * **Provinha 2**
- * Projeto – Etapa 2
+### Tópicos
 
-## Aula 6 (1/10 e 3/10)
+* Camada de rede: plano de controle (algoritmos de roteamento, OSPF, BGP, OpenFlow)
 
- * Camada de rede: plano de dados
+### Avaliações
 
-## Aula 7 (8/10 e 10/10)
+* 29/07 - mini-teste teórico
+* 05/08 - prazo de entrega do T3 (IP)
 
- * Camada de rede: plano de controle
+## Aulas 9 a 10 (12/08, 19/08)
 
-## Aula 8 (15/10 e 17/10)
+### Tópicos
 
- * **Provinha 3**
- * Projeto – Etapa 2
+* Camada de enlace (diversas tecnologias de rede, detecção e correção de erros, acesso ao meio, protocolos)
 
-## Aula 9 (22/10 e 24/10)
+### Avaliações
 
- * Camada de enlace
- * Leitura adicional recomendada:
-   * [Vídeo: How do CRCs work?](https://youtu.be/izG7qT0EpBw)
+* 12/08 - mini-teste teórico
+* 19/08 - prazo de entrega do T4 (SLIP)
 
-## Aula 10 (29/10 e 31/10)
+## Aula 11 (26/08)
 
- * **Provinha 4**
- * Projeto – Etapa 3
+### Tópicos
 
-## Aula 11 (5/11 e 7/11)
+* Redes sem fio e móveis 
+* Fundamentos de segurança de redes
 
- * Redes sem fio e móveis
+### Avaliações
 
-## Aula 12 (12/11 e 14/11)
+* 26/08 - mini-teste teórico
 
- * Fundamentos de segurança de redes
- * [Introdução à Criptografia](/static/introducao-criptografia.pdf) (slides do prof. Aranha)
- * Leitura adicional recomendada:
-   * [Modes of operation's failures](https://raw.githubusercontent.com/corkami/pics/master/binary/CryptoModes.png)
+## Aulas 12 a 14 (02/09, 09/09, 16/09)
 
-## Aula 13 (19/11 e 21/11)
+* Desenvolvimento dos seminários
 
- * **Provinha 5**
- * Projeto – Etapa 4
+## Aula 15 (30/09)
 
-## Aula 14 (26/11 e 28/11)
-
- * **Provinha 6**
- * Projeto – Etapa 5
-
-## Aula 15 (**??**/12 e **??**/12 - vide anúncio)
-
- * **Apresentação do projeto**
+* Apresentação dos seminários
