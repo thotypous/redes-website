@@ -26,7 +26,7 @@ Por favor, verifique frequentemente pois esta agenda pode sofrer alterações.
 ### Avaliações
 
 * 24/06 - mini-teste teórico
-* 01/07 - prazo de entrega do T1 (servidor IRC)
+* 01/07 - prazo de entrega do P1 (servidor IRC)
 
 
 ## Aulas 4 a 6 (08/07, 15/07, 22/07)
@@ -40,7 +40,7 @@ Por favor, verifique frequentemente pois esta agenda pode sofrer alterações.
 ### Avaliações
 
 * 08/07 - mini-teste teórico
-* 22/07 - prazo de entrega do T2 (TCP)
+* 22/07 - prazo de entrega do P2 (TCP)
 
 ## Aulas 7 a 8 (29/07, 05/08)
 
@@ -51,7 +51,7 @@ Por favor, verifique frequentemente pois esta agenda pode sofrer alterações.
 ### Avaliações
 
 * 29/07 - mini-teste teórico
-* 05/08 - prazo de entrega do T3 (IP)
+* 05/08 - prazo de entrega do P3 (IP)
 
 ## Aulas 9 a 10 (12/08, 19/08)
 
@@ -62,7 +62,7 @@ Por favor, verifique frequentemente pois esta agenda pode sofrer alterações.
 ### Avaliações
 
 * 12/08 - mini-teste teórico
-* 19/08 - prazo de entrega do T4 (SLIP)
+* 19/08 - prazo de entrega do P4 (SLIP)
 
 ## Aula 11 (26/08)
 
