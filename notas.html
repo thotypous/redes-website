@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js" integrity="sha384-ZvpUoO/+PpLXR1lu4jmpXWu80pZlYUAfxl5NsBMWOEPSjUn/6Z/hRTt8+pR6L4N2" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.loadtemplate/1.5.10/jquery.loadTemplate.min.js" integrity="sha384-nr6ltGz/fs8wsPDlVqIaLGlQ8la/Ty1MURr0Kp8mApRVUq8xAyi42TLSjkr+oNAB" crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.6.0/css/bootstrap.min.css" integrity="sha384-B0vP5xmATw1+K9KRQjQERJvTumQW0nPEzvF6L/Z6nronJ3oUOFUFpCjEUQouq2+l" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.2/css/all.min.css" integrity="sha384-vSIIfh2YWi9wW0r9iZe7RJPrKwp6bG+s9QZMoITbCckVJqGCCRhc+ccxNcdpHuYu" crossorigin="anonymous">
+    <script type="text/javascript">
+        const api = 'https://script.google.com/macros/s/AKfycbxp8fZiLcxY_p2MEGzkE0lEKyu7aHSnUcLMnuS7jgzl2ki1zxUQw0zybeejJe8fL_Sw3w/exec';
+        $(function () {
+            var urlParams = new URLSearchParams(window.location.search);
+            $.ajax({
+                url: api,
+                method: 'GET',
+                data: {'token': urlParams.get('token')},
+                cache: false,
+                success: function (data) {
+                    $("#contents").loadTemplate($("#templ"), data);
+                }
+            });
+        });
+    </script>
+</head>
+<body>
+    <main class="container">
+        <div class="bg-light rounded">
+            <div class="table-responsive">
+                <table class="table table-sm table-hover table-striped">
+                    <tbody id="contents">
+                    </tbody>
+                </table>
+            </div>
+            <script type="text/html" id="templ">
+                <tr>
+                    <th scope="row" data-content="key"></th>
+                    <td data-content="value"></td>
+                </tr>
+            </script>
+        </div>
+    </main>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.6.0/js/bootstrap.bundle.min.js" integrity="sha384-Piv4xVNRyMGpqkS2by6br4gNJ7DXjqk09RmUpJ8jgGtD7zP9yug3goQfGII0yAns" crossorigin="anonymous"></script>
+</body>
+</html>
