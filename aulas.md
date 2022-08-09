@@ -84,7 +84,7 @@ Por favor, verifique frequentemente pois esta agenda pode sofrer alterações.
 
 ### Avaliações
 
-* 12/08 - mini-teste teórico
+* 19/08 - mini-teste teórico
 * 19/08 - prazo de entrega do P4 (SLIP)
 
 ## Aula 11 (26/08)
