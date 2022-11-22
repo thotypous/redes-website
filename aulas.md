@@ -30,7 +30,7 @@ Por favor, verifique frequentemente pois esta agenda pode sofrer alterações.
 
 ### Avaliações
 
-* 22/11 - mini-teste teórico
+* 29/11 - mini-teste teórico
 * 29/11 - prazo de entrega do P1 (servidor IRC)
 
 
