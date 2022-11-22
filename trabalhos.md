@@ -20,9 +20,7 @@ Veja os passos abaixo no [vídeo](https://youtu.be/JtQzTGoF8jM):
 
 2. Vá em Settings / Actions e marque "Allow all actions".
 
-3. Convide os demais membros do seu grupo e os professores ([thotypous](https://GitHub.com/thotypous) e [hsenger1969](https://github.com/hsenger1969)) como colaboradores.
-
-   **Importante**: mesmo se você for da turma B, convide o [thotypous](https://GitHub.com/thotypous), pois o robô executa na conta dele!
+3. Convide os demais membros do seu grupo e o professor ([thotypous](https://GitHub.com/thotypous) como colaboradores.
 
 4. Cadastre o repositório e os membros do grupo no **formulário** correspondente.
 
