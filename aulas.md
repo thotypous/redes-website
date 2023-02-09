@@ -101,7 +101,7 @@ Por favor, verifique frequentemente pois esta agenda pode sofrer alterações.
 
 ### Avaliações
 
-* 14/02 - mini-teste teórico
+* ~14/02~ 28/02 - mini-teste teórico
 
 ## Aulas 12 a 14 (28/02, 07/03, 14/03)
 
