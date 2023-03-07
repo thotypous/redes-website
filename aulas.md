@@ -103,10 +103,10 @@ Por favor, verifique frequentemente pois esta agenda pode sofrer alterações.
 
 * ~~14/02~~ 28/02 - mini-teste teórico
 
-## Aulas 12 a 14 (28/02, 07/03, 14/03)
+## Aulas 12 a 14 (07/03, 14/03, 21/03)
 
 * Desenvolvimento dos seminários
 
-## Aula 15 (21/03)
+## Aula 15 (~~21/03~~ 28/03)
 
 * Apresentação dos seminários
