@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Trabalhos
-permalink: /trabalhos/
+title: Práticas
+permalink: /praticas/
 ---
 
 # Links
