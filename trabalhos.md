@@ -6,11 +6,11 @@ permalink: /trabalhos/
 
 # Links
 
-* P1: [GitHub](https://github.com/thotypous/redes-p1), [formulário](https://forms.gle/TCXE1oWQtq393MV37)
-* P2: [GitHub](https://github.com/thotypous/redes-p2), [formulário](https://forms.gle/TwEkxfXyyq6FMitt6)
-* P3: [GitHub](https://github.com/thotypous/redes-p3), [formulário](https://forms.gle/TpKNtMxShUrwVfCG6)
-* P4: [GitHub](https://github.com/thotypous/redes-p4), [formulário](https://forms.gle/tQVT6juqXbJPp3GcA)
-* S1: [GitHub](https://github.com/thotypous/redes-s1), [formulário](https://forms.gle/5ksMGkA9mBL8U2DQ7)
+* P1: [GitHub](https://github.com/thotypous/redes-p1), [formulário]()
+* P2: [GitHub](https://github.com/thotypous/redes-p2), [formulário]()
+* P3: [GitHub](https://github.com/thotypous/redes-p3), [formulário]()
+* P4: [GitHub](https://github.com/thotypous/redes-p4), [formulário]()
+* S1: [GitHub](https://github.com/thotypous/redes-s1), [formulário]()
 
 # Tutorial
 

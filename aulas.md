@@ -16,7 +16,7 @@ KUROSE, J.; ROSS, K. [Redes de computadores e a internet: uma abordagem top-down
 Por favor, verifique frequentemente pois esta agenda pode sofrer alterações.
 
 
-## Aulas 1 a 3 (8/11, 22/11, 29/11)
+## Aulas 1 a 3 (19/05, 26/05, 02/06)
 
 ### Tópicos
 
@@ -30,11 +30,11 @@ Por favor, verifique frequentemente pois esta agenda pode sofrer alterações.
 
 ### Avaliações
 
-* 29/11 - mini-teste teórico
-* 29/11 - prazo de entrega do P1 (servidor IRC)
+* 26/05 - mini-teste teórico
+* 02/06 - prazo de entrega do P1 (servidor IRC)
 
 
-## Aulas 4 a 6 (06/12, 13/12, 10/01)
+## Aulas 4 a 6 (16/06, 23/06, 30/06)
 
 ### Tópicos
 
@@ -50,10 +50,10 @@ Por favor, verifique frequentemente pois esta agenda pode sofrer alterações.
 
 ### Avaliações
 
-* 06/12 - mini-teste teórico
-* 10/01 - prazo de entrega do P2 (TCP)
+* 16/06 - mini-teste teórico
+* 30/06 - prazo de entrega do P2 (TCP)
 
-## Aulas 7 a 8 (17/01, 24/01)
+## Aulas 7 a 8 (07/07, 14/07)
 
 ### Tópicos
 
@@ -68,10 +68,10 @@ Por favor, verifique frequentemente pois esta agenda pode sofrer alterações.
 
 ### Avaliações
 
-* 17/01 - mini-teste teórico
-* 24/01 - prazo de entrega do P3 (IP)
+* 07/07 - mini-teste teórico
+* 14/07 - prazo de entrega do P3 (IP)
 
-## Aulas 9 a 10 (31/01, 07/02)
+## Aulas 9 a 10 (21/07, 28/07)
 
 ### Tópicos
 
@@ -84,10 +84,10 @@ Por favor, verifique frequentemente pois esta agenda pode sofrer alterações.
 
 ### Avaliações
 
-* 31/01 - mini-teste teórico
-* 07/02 - prazo de entrega do P4 (SLIP)
+* 21/07 - mini-teste teórico
+* 28/07 - prazo de entrega do P4 (SLIP)
 
-## Aula 11 (14/02)
+## Aula 11 (04/08)
 
 ### Tópicos
 
@@ -101,12 +101,12 @@ Por favor, verifique frequentemente pois esta agenda pode sofrer alterações.
 
 ### Avaliações
 
-* ~~14/02~~ 28/02 - mini-teste teórico
+* 04/08 - mini-teste teórico
 
-## Aulas 12 a 14 (07/03, 14/03, 21/03)
+## Aulas 12 a 14 (11/08, 18/08, 25/08)
 
 * Desenvolvimento dos seminários
 
-## Aula 15 (~~21/03~~ 28/03)
+## Aula 15 (01/09)
 
 * Apresentação dos seminários
