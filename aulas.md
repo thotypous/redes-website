@@ -6,10 +6,10 @@ permalink: /aulas/
 
 # Bibliografia
 
-KUROSE, J.; ROSS, K. [Redes de computadores e a internet: uma abordagem top-down](https://plataforma.bvirtual.com.br/Acervo/Publicacao/3843), 6ª edição, ISBN: 9788581436777
+KUROSE, J.; ROSS, K. [Redes de computadores e a internet: uma abordagem top-down](https://plataforma.bvirtual.com.br/Acervo/Publicacao/198909), 8ª edição, ISBN: 9788582605592
 
  * [Slides do livro](https://1drv.ms/f/s!AlU8gesWGe8VeyYUZqcZmeP52vY)
- * [Animações interativas](https://wps.pearsoned.com/ecs_kurose_compnetw_6/216/55463/14198702.cw/content/index.html)
+ * [Animações interativas](https://web.archive.org/web/20210414081858/https://wps.pearsoned.com/ecs_kurose_compnetw_6/216/55463/14198702.cw/content/index.html)
 
 # Agenda
 
