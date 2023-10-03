@@ -71,7 +71,7 @@ Por favor, verifique frequentemente pois esta agenda pode sofrer alterações.
 * 14/11 - mini-teste teórico
 * 21/11 - prazo de entrega do P3 (IP)
 
-## Aulas 9 a 10 (28/11, 05/12)
+## Aulas 9 a 10 (05/12, 12/12)
 
 ### Tópicos
 
@@ -84,10 +84,10 @@ Por favor, verifique frequentemente pois esta agenda pode sofrer alterações.
 
 ### Avaliações
 
-* 28/11 - mini-teste teórico
-* 05/12 - prazo de entrega do P4 (SLIP)
+* 05/12 - mini-teste teórico
+* 12/12 - prazo de entrega do P4 (SLIP)
 
-## Aula 11 (12/12)
+## Aula 11 (19/12)
 
 ### Tópicos
 
@@ -103,7 +103,7 @@ Por favor, verifique frequentemente pois esta agenda pode sofrer alterações.
 
 * 12/12 - mini-teste teórico
 
-## Aulas 12 a 14 (19/12, 09/01, 16/01)
+## Aulas 12 a 14 (09/01, 16/01)
 
 * Desenvolvimento dos seminários
 
