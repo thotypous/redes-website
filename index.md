@@ -14,5 +14,5 @@ Utilize o menu superior para acessar as informações sobre a disciplina. A pág
 
  * [Playlist](https://www.youtube.com/playlist?list=PLtQaN06AB3mJq8UoVOLABF_p-hsztUQ81)
  * [Transmissões](https://www.twitch.tv/thotypous)
- * Grupo da disciplina – [Telegram](https://t.me/+YFCI-e3T2JgzNDgx) ou [Matrix](https://matrix.to/#/#ufscar-redes-2023-2:mozilla.org)
+ * Grupo da disciplina – [Telegram](https://t.me/+6hyJevqDbKNjNGZh)
  * [Lista de presença](https://docs.google.com/spreadsheets/d/1kvtgP50Bqrp4RvA64w9ddh_BdfLTpEoh5GLNZp_AMos/edit?usp=sharing) (acesso somente com e-mail UFSCar)
