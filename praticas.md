@@ -18,7 +18,9 @@ Veja os passos abaixo no [vídeo](https://youtu.be/JtQzTGoF8jM):
 
 1. Importe o trabalho do **GitHub** para um repositório na conta de um dos membros do grupo (**não** faça um *fork*!)
 
-2. Vá em Settings / Actions e marque "Allow all actions".
+2. Vá em Settings / Actions e:
+   * em "Actions permissions", marque "Allow all actions and reusable workflows"
+   * em "Workflow permissions", marque "Read and write permissions"
 
 3. Convide os demais membros do seu grupo e o professor ([thotypous](https://GitHub.com/thotypous)) como colaboradores.
 
