@@ -101,7 +101,7 @@ Por favor, verifique frequentemente pois esta agenda pode sofrer alterações.
 
 ### Avaliações
 
-* 12/12 - mini-teste teórico
+* 19/12 - mini-teste teórico
 
 ## Aulas 12 a 14 (09/01, 16/01)
 
