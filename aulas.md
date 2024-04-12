@@ -30,8 +30,8 @@ Por favor, verifique frequentemente pois esta agenda pode sofrer alterações.
 
 ### Avaliações
 
-* 12/03 - mini-teste teórico
-* 19/03 - prazo de entrega do P1 (servidor IRC)
+* 12/04 - mini-teste teórico
+* 19/04 - prazo de entrega do P1 (servidor IRC)
 
 
 ## Aulas 4 a 6 (26/04, 03/05, 10/05)
