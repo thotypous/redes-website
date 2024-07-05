@@ -34,7 +34,7 @@ Por favor, verifique frequentemente pois esta agenda pode sofrer alterações.
 * 19/04 - prazo de entrega do P1 (servidor IRC)
 
 
-## Aulas 4 a 6 (26/04, 03/05, 10/05)
+## Aulas 4 a 6 (26/04, 03/05, 12/07)
 
 ### Tópicos
 
@@ -53,7 +53,7 @@ Por favor, verifique frequentemente pois esta agenda pode sofrer alterações.
 * 26/04 - mini-teste teórico
 * 10/05 - prazo de entrega do P2 (TCP)
 
-## Aulas 7 a 8 (17/05, 24/05)
+## Aulas 7 a 8 (19/07, 26/07)
 
 ### Tópicos
 
@@ -71,7 +71,7 @@ Por favor, verifique frequentemente pois esta agenda pode sofrer alterações.
 * 17/05 - mini-teste teórico
 * 24/05 - prazo de entrega do P3 (IP)
 
-## Aulas 9 a 10 (07/06, 14/06)
+## Aulas 9 a 10 (02/08, 09/08)
 
 ### Tópicos
 
@@ -87,7 +87,7 @@ Por favor, verifique frequentemente pois esta agenda pode sofrer alterações.
 * 07/06 - mini-teste teórico
 * 14/06 - prazo de entrega do P4 (SLIP)
 
-## Aula 11 (21/06)
+## Aula 11 (23/08)
 
 ### Tópicos
 
@@ -103,10 +103,10 @@ Por favor, verifique frequentemente pois esta agenda pode sofrer alterações.
 
 * 21/06 - mini-teste teórico
 
-## Aulas 12 a 14 (28/06, 05/07)
+## Aulas 12 a 14 (30/08, 06/09)
 
 * Desenvolvimento dos seminários
 
-## Aula 15 (12/07)
+## Aula 15 (13/09)
 
 * Apresentação dos seminários
