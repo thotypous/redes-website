@@ -53,7 +53,7 @@ Por favor, verifique frequentemente pois esta agenda pode sofrer alterações.
 * 26/04 - mini-teste teórico
 * 12/07 - prazo de entrega do P2 (TCP)
 
-## Aulas 7 a 8 (19/07, 26/07)
+## Aulas 7 a 8 (19/07, ~~26/07~~)
 
 ### Tópicos
 
