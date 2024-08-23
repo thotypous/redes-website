@@ -98,6 +98,7 @@ Por favor, verifique frequentemente pois esta agenda pode sofrer alterações.
 
 * Capítulos 7 e 8 do Kurose
 * Vídeos [2](https://www.youtube.com/watch?v=Rv2zcXsMTPA&list=PLtQaN06AB3mJJXu7cuoK7KaL9e0KfChuQ&index=2) a [10](https://www.youtube.com/watch?v=bfS4-1DbCa8&list=PLtQaN06AB3mJJXu7cuoK7KaL9e0KfChuQ&index=10) da playlist de Segurança Cibernética
+* Segurança de redes - [slides](https://docs.google.com/presentation/d/1YWUPuOuWLji58EwVUd8kLcm4C4vhMU7tGoosJUpBDfM/edit?usp=sharing)
 
 ### Avaliações
 
