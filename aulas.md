@@ -62,7 +62,7 @@ Por favor, verifique frequentemente pois esta agenda pode sofrer alterações.
 
 ### Materiais para estudo
 
-* Capítulo 4 do Kurose
+* Capítulo 4 e 5 do Kurose
 * Vídeos [14](https://www.youtube.com/watch?v=v4-SzxLleg4&list=PLtQaN06AB3mJq8UoVOLABF_p-hsztUQ81&index=25) a [24](https://www.youtube.com/watch?v=WlX5q_TIFXo&list=PLtQaN06AB3mJq8UoVOLABF_p-hsztUQ81&index=28) da playlist 
 * Vídeos [29](https://www.youtube.com/watch?v=cFhlvrZ1hKY&list=PLtQaN06AB3mJq8UoVOLABF_p-hsztUQ81&index=29) a [31](https://www.youtube.com/watch?v=xhtvKJ1mzwI&list=PLtQaN06AB3mJq8UoVOLABF_p-hsztUQ81&index=31) da playlist
 
@@ -79,7 +79,7 @@ Por favor, verifique frequentemente pois esta agenda pode sofrer alterações.
 
 ### Materiais para estudo
 
-* Capítulo 5 do Kurose
+* Capítulo 6 do Kurose
 * Vídeos [32](https://www.youtube.com/watch?v=v4-SzxLleg4&list=PLtQaN06AB3mJq8UoVOLABF_p-hsztUQ81&index=32) a [37](https://www.youtube.com/watch?v=WlX5q_TIFXo&list=PLtQaN06AB3mJq8UoVOLABF_p-hsztUQ81&index=37) da playlist 
 
 ### Avaliações
@@ -96,7 +96,7 @@ Por favor, verifique frequentemente pois esta agenda pode sofrer alterações.
 
 ### Materiais para estudo
 
-* Capítulos 6 e 8 do Kurose
+* Capítulos 7 e 8 do Kurose
 * Vídeos [2](https://www.youtube.com/watch?v=Rv2zcXsMTPA&list=PLtQaN06AB3mJJXu7cuoK7KaL9e0KfChuQ&index=2) a [10](https://www.youtube.com/watch?v=bfS4-1DbCa8&list=PLtQaN06AB3mJJXu7cuoK7KaL9e0KfChuQ&index=10) da playlist de Segurança Cibernética
 
 ### Avaliações
