@@ -8,11 +8,11 @@ Utilize o menu superior para acessar as informações sobre a disciplina. A pág
 
 ## Aulas
 
- * Sextas-feiras das 8h às 12h<br />Sala LE2 – Departamento de Computação
+ * Terças-feiras das 8h às 12h<br />Sala LE3 – Departamento de Computação
 
 ## Links
 
  * [Playlist](https://www.youtube.com/playlist?list=PLtQaN06AB3mJq8UoVOLABF_p-hsztUQ81)
  * [Transmissões](https://www.twitch.tv/thotypous)
- * Grupo da disciplina – [Telegram](https://t.me/+qozGEr1DLN1jNDBh)
- * [Lista de presença](https://docs.google.com/spreadsheets/d/19lB24-M_QodBIPxn2M1pCGVx_EoBQY6uf5sMuDt5a3k/edit?usp=sharing) (acesso somente com e-mail UFSCar)
+ * Grupo da disciplina – [Telegram](https://t.me/+jg24TxllRCMyNThh)
+ * [Lista de presença](https://docs.google.com/spreadsheets/d/1yPnVwkaMmBBFvZ6gU99U71dqv81BDXpQLVWDvxh-SKw/edit?usp=sharing) (acesso somente com e-mail UFSCar)
