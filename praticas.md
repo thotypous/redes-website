@@ -6,11 +6,11 @@ permalink: /praticas/
 
 # Links
 
-* P1: [GitHub](https://github.com/thotypous/redes-p1), [formulário]()
-* P2: [GitHub](https://github.com/thotypous/redes-p2), [formulário]()
-* P3: [GitHub](https://github.com/thotypous/redes-p3), [formulário]()
-* P4: [GitHub](https://github.com/thotypous/redes-p4), [formulário]()
-* S1: [GitHub](https://github.com/thotypous/redes-s1), [formulário]()
+* P1: [GitHub](https://github.com/thotypous/redes-p1), [formulário](https://forms.gle/WPLpiXu6twMX6vU68)
+* P2: [GitHub](https://github.com/thotypous/redes-p2), [formulário](https://forms.gle/egv1NRWRJEXKQbZX9)
+* P3: [GitHub](https://github.com/thotypous/redes-p3), [formulário](https://forms.gle/6LAQGz84NpqFDz4c9)
+* P4: [GitHub](https://github.com/thotypous/redes-p4), [formulário](https://forms.gle/3rRqWjiFguBtQKo67)
+* S1: [GitHub](https://github.com/thotypous/redes-s1), [formulário](https://forms.gle/5WMAgKyBJWB8MbSX6)
 
 # Tutorial
 
