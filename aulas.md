@@ -104,7 +104,7 @@ Por favor, verifique frequentemente pois esta agenda pode sofrer alterações.
 
 * 21/01 - mini-teste teórico
 
-## Aulas 12 a 14 (28/01, ~04/02~, 11/02)
+## Aulas 12 a 14 (28/01, ~~04/02~~, 11/02)
 
 * Desenvolvimento dos seminários
 
