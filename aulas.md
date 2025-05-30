@@ -68,7 +68,7 @@ Por favor, verifique frequentemente pois esta agenda pode sofrer alterações.
 
 ### Avaliações
 
-* 30/06 - mini-teste teórico
+* 30/05 - mini-teste teórico
 * 06/06 - prazo de entrega do P3 (IP)
 
 ## Aulas 9 a 10 (13/06, 27/06)
@@ -87,7 +87,7 @@ Por favor, verifique frequentemente pois esta agenda pode sofrer alterações.
 * 13/06 - mini-teste teórico
 * 27/06 - prazo de entrega do P4 (SLIP)
 
-## Aula 11 (04/07)
+## Aula 11 (~~04/07~~ 11/07)
 
 ### Tópicos
 
@@ -102,7 +102,7 @@ Por favor, verifique frequentemente pois esta agenda pode sofrer alterações.
 
 ### Avaliações
 
-* 04/07 - mini-teste teórico
+* ~~04/07~~ 11/07 - mini-teste teórico
 
 ## Aulas 12 a 14 (11/07, 18/07)
 
