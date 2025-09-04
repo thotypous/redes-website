@@ -23,7 +23,7 @@ permalink: /praticas/
    * [Iniciar prática](https://classroom.github.com/a/Fa4I3W9B) (para alunos inscritos)
 
 5. **Prática Final** (seminário)
-   * [Iniciar prática](https://github.com/thotypous/redes-s1)
+   * [Repositório público](https://github.com/thotypous/redes-s1)
 
 
 # Tutorial
