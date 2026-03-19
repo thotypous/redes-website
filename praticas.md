@@ -8,19 +8,19 @@ permalink: /praticas/
 
 1. Camada de aplicação (L7) – **servidor IRC**
    * [Repositório público](https://github.com/thotypous/redes-p1)
-   * [Iniciar prática](https://classroom.github.com/a/u9t_Tprr) (para alunos inscritos)
+   * [Iniciar prática](https://classroom.github.com/a/u9x0_pVI) (para alunos inscritos)
 
 2. Camada de transporte (L4) – **TCP**
    * [Repositório público](https://github.com/thotypous/redes-p2)
-   * [Iniciar prática](https://classroom.github.com/a/0zpKCO36) (para alunos inscritos)
+   * [Iniciar prática](https://classroom.github.com/a/OSamdTBc) (para alunos inscritos)
 
 3. Camada de rede (L3) – **IP**
    * [Repositório público](https://github.com/thotypous/redes-p3)
-   * [Iniciar prática](https://classroom.github.com/a/dlCe-pqt) (para alunos inscritos)
+   * [Iniciar prática](https://classroom.github.com/a/7mDg4ZsG) (para alunos inscritos)
 
 4. Camada de enlace (L2) – **SLIP**
    * [Repositório público](https://github.com/thotypous/redes-p4)
-   * [Iniciar prática](https://classroom.github.com/a/Fa4I3W9B) (para alunos inscritos)
+   * [Iniciar prática](https://classroom.github.com/a/tFYddkcy) (para alunos inscritos)
 
 5. **Prática Final** (seminário)
    * [Repositório público](https://github.com/thotypous/redes-s1)
