@@ -15,8 +15,10 @@ KUROSE, J.; ROSS, K. [Redes de computadores e a internet: uma abordagem top-down
 
 Por favor, verifique frequentemente pois esta agenda pode sofrer alterações.
 
+Aulas às terças-feiras, das 08:00 às 12:00, no DC — LE-3.
 
-## Aulas 1 a 3 (13/03, 27/03, 10/04)
+
+## Aulas 1 a 3 (25/08, 01/09, 08/09)
 
 ### Tópicos
 
@@ -30,11 +32,11 @@ Por favor, verifique frequentemente pois esta agenda pode sofrer alterações.
 
 ### Avaliações
 
-* 27/03 - mini-teste teórico
-* 17/04 - prazo de entrega do P1 (servidor IRC)
+* 01/09 - mini-teste teórico
+* 15/09 - prazo de entrega do P1 (servidor IRC)
 
 
-## Aulas 4 a 6 (17/04, 24/04, 08/05)
+## Aulas 4 a 6 (15/09, 22/09, 29/09)
 
 ### Tópicos
 
@@ -50,10 +52,12 @@ Por favor, verifique frequentemente pois esta agenda pode sofrer alterações.
 
 ### Avaliações
 
-* 17/04 - mini-teste teórico
-* 08/05 - prazo de entrega do P2 (TCP)
+* 15/09 - mini-teste teórico
+* 29/09 - prazo de entrega do P2 (TCP)
 
-## Aulas 7 a 8 (15/05, 29/05)
+> Não haverá aula em 06/10, durante a semana da SeComp (05 a 09/10).
+
+## Aulas 7 a 8 (13/10, 20/10)
 
 ### Tópicos
 
@@ -68,10 +72,10 @@ Por favor, verifique frequentemente pois esta agenda pode sofrer alterações.
 
 ### Avaliações
 
-* 15/05 - mini-teste teórico
-* 29/05 - prazo de entrega do P3 (IP)
+* 13/10 - mini-teste teórico
+* 20/10 - prazo de entrega do P3 (IP)
 
-## Aulas 9 a 10 (12/06, 19/06)
+## Aulas 9 a 10 (27/10, 10/11)
 
 ### Tópicos
 
@@ -84,10 +88,12 @@ Por favor, verifique frequentemente pois esta agenda pode sofrer alterações.
 
 ### Avaliações
 
-* 12/06 - mini-teste teórico
-* 19/06 - prazo de entrega do P4 (SLIP)
+* 27/10 - mini-teste teórico
+* 10/11 - prazo de entrega do P4 (SLIP)
 
-## Aula 11 (26/06)
+> Não haverá aula em 03/11, possível ponto facultativo em São Carlos.
+
+## Aula 11 (17/11)
 
 ### Tópicos
 
@@ -102,12 +108,12 @@ Por favor, verifique frequentemente pois esta agenda pode sofrer alterações.
 
 ### Avaliações
 
-* 26/06 - mini-teste teórico
+* 17/11 - mini-teste teórico
 
-## Aulas 12 a 14 (03/07)
+## Aulas 12 a 14 (24/11, 01/12, 08/12)
 
 * Desenvolvimento dos seminários
 
-## Aula 15 (17/07)
+## Aula 15 (15/12)
 
 * Apresentação dos seminários
