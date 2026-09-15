@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "periodos": {
+    "2025-1": {
+      "app_script_url": "https://script.google.com/macros/s/AKfycbwZXjG81YcTbsD1C9qIAQqLtL6dCFzsigIKqjSbe_D8DgjVkpp14CH6ZtjCknPJdtSR/exec"
+    },
+    "2025-2": {
+      "app_script_url": "https://script.google.com/macros/s/AKfycbwqyL32mRyiGVbnNS0-Entk_47N3clm5pzALVeR31-STrDDHhjTE8HqwhGTUTGcwAiJ/exec"
+    },
+    "2026-1": {
+      "app_script_url": "https://script.google.com/macros/s/AKfycbz_MdHmwRbZRDK-FaouL_wGrU2ZhixTnl7YIW1xa9KSuM476YUJyXJnlpvPfWfxquX7NA/exec"
+    },
+    "2026-2": {
+      "app_script_url": "https://script.google.com/macros/s/AKfycbz2ycHFHLxcLDxCc3heEjTInc3QvrrQxwn-TUbdpD2kxsPE750esKoNs2ZpbC7YsKA/exec"
+    }
+  }
+}
