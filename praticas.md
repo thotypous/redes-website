@@ -8,28 +8,38 @@ permalink: /praticas/
 
 1. Camada de aplicação (L7) – **servidor IRC**
    * [Repositório público](https://github.com/thotypous/redes-p1)
-   * [Iniciar prática](https://classroom.github.com/a/u9x0_pVI) (para alunos inscritos)
+   * [Formulário de entrega](https://docs.google.com/forms/d/e/1FAIpQLSeLH29pn6LKcK8bwMwV6ZZjgHeRHtkZckG2aAVcO2XyxwizyA/viewform)
 
 2. Camada de transporte (L4) – **TCP**
    * [Repositório público](https://github.com/thotypous/redes-p2)
-   * [Iniciar prática](https://classroom.github.com/a/OSamdTBc) (para alunos inscritos)
+   * [Formulário de entrega](https://docs.google.com/forms/d/e/1FAIpQLSeofh67-bsNYlOKuPqMiMQcVhz-NJOp5ZDiAiPlpcSYDPt6IA/viewform)
 
 3. Camada de rede (L3) – **IP**
    * [Repositório público](https://github.com/thotypous/redes-p3)
-   * [Iniciar prática](https://classroom.github.com/a/7mDg4ZsG) (para alunos inscritos)
+   * [Formulário de entrega](https://docs.google.com/forms/d/e/1FAIpQLScJUJbKt7QLfXvWHeCSyVafO-OUzIL5NDIiWNBbg_RJA3FEWw/viewform)
 
 4. Camada de enlace (L2) – **SLIP**
    * [Repositório público](https://github.com/thotypous/redes-p4)
-   * [Iniciar prática](https://classroom.github.com/a/tFYddkcy) (para alunos inscritos)
+   * [Formulário de entrega](https://docs.google.com/forms/d/e/1FAIpQLSfsPcR_TUZtxLlYW5DE2XobZDVJr_kkFquVs2pDM4aaqGpoig/viewform)
 
 5. **Prática Final** (seminário)
    * [Repositório público](https://github.com/thotypous/redes-s1)
+   * [Formulário de entrega](https://docs.google.com/forms/d/e/1FAIpQLSe11rwn6ro5WxYyVZXcnkp3j-s7rApLdPIf_J0MWcJneiAzDw/viewform)
 
 
 # Tutorial
 
-1. Clique no link `Iniciar prática` correspondente à prática que você quer começar.
-2. Se você ainda não houver atrelado sua conta GitHub a um usuário da disciplina, ele vai pedir para você escolher seu número UFSCar e nome completo da lista.
-   * Você vai receber um e-mail na madrugada seguinte confirmando essa operação. Assim, se alguém fizer gracinha e se cadastrar no seu nome, você saberá quem foi ;D
-3. Crie um grupo ou entre em um grupo existente.
-4. O GitHub Classroom criará um repositório para o seu grupo trabalhar. Você pode clonar o repositório e trabalhar localmente no seu PC, e/ou trabalhar online pelo Codespaces.
+## Práticas P1 a P4
+
+1. Forme um grupo de até **3 integrantes**.
+2. Importe o repositório público da prática para um **repositório privado** na conta de um dos integrantes (não faça um *fork*).
+3. Habilite a execução dos workflows na aba **Actions** do repositório.
+4. Convide os demais integrantes e o professor ([thotypous](https://github.com/thotypous)) como colaboradores.
+5. Preencha o **formulário de entrega** da prática com os integrantes e a URL do repositório. Envie apenas uma resposta por grupo.
+6. Guarde o link de edição da resposta. Se precisar corrigir os integrantes ou o endereço do repositório, edite a resposta existente.
+
+Acompanhe os resultados dos testes na aba **Actions**. O professor precisa ter acesso ao repositório para coletar as notas.
+
+## Prática final (S1)
+
+Forme um grupo de até **6 integrantes**, siga as instruções do repositório de S1 e cadastre os integrantes no formulário correspondente. Envie apenas uma resposta por grupo e guarde o link de edição.
