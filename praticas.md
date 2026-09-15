@@ -43,3 +43,9 @@ Acompanhe os resultados dos testes na aba **Actions**. O professor precisa ter a
 ## Prática final (S1)
 
 Forme um grupo de até **6 integrantes**, siga as instruções do repositório de S1 e cadastre os integrantes no formulário correspondente. Envie apenas uma resposta por grupo e guarde o link de edição.
+
+## Consulta de notas
+
+Use o link pessoal recebido no e-mail **“[Redes] Link para consultar notas”**. Ele identifica o período letivo e permite consultar suas notas; não o compartilhe.
+
+A coleta automática das notas das práticas ocorre a cada **2 horas**, quando ativada pelo professor. Por isso, o resultado mostrado em **Actions** pode aparecer antes da atualização na página de notas. Se a nota continuar desatualizada após a próxima coleta, confira o cadastro do repositório e o convite ao professor e entre em contato se o problema persistir.

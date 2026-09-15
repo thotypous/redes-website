@@ -28,7 +28,7 @@ Aulas às terças-feiras, das 08:00 às 12:00, no DC — LE-3.
 ### Materiais para estudo
 
 * Capítulos 1 e 2 do Kurose
-* Vídeos [1](https://www.youtube.com/watch?v=43FJUiYkQt0&list=PLtQaN06AB3mJq8UoVOLABF_p-hsztUQ81&index=1) a [7](https://www.youtube.com/watch?v=43FJUiYkQt0&list=PLtQaN06AB3mJq8UoVOLABF_p-hsztUQ81&index=7) da playlist
+* Vídeos [1](https://www.youtube.com/watch?v=43FJUiYkQt0&list=PLtQaN06AB3mJq8UoVOLABF_p-hsztUQ81&index=1) a [7](https://www.youtube.com/watch?v=AVYBu_5TfWg&list=PLtQaN06AB3mJq8UoVOLABF_p-hsztUQ81&index=7) da playlist
 
 ### Avaliações
 
@@ -48,7 +48,7 @@ Aulas às terças-feiras, das 08:00 às 12:00, no DC — LE-3.
 
 * Capítulo 3 do Kurose
 * Vídeos [8](https://www.youtube.com/watch?v=lEXgM9Vlq4k&list=PLtQaN06AB3mJq8UoVOLABF_p-hsztUQ81&index=8) a [13](https://www.youtube.com/watch?v=_Y1HCtgTB4s&list=PLtQaN06AB3mJq8UoVOLABF_p-hsztUQ81&index=13) da playlist
-* Vídeos [25](https://www.youtube.com/watch?v=v4-SzxLleg4&list=PLtQaN06AB3mJq8UoVOLABF_p-hsztUQ81&index=25) a [28](https://www.youtube.com/watch?v=WlX5q_TIFXo&list=PLtQaN06AB3mJq8UoVOLABF_p-hsztUQ81&index=28) da playlist (pode ser útil adiantar de [14](https://www.youtube.com/watch?v=PKx8YqBgpEk&list=PLtQaN06AB3mJq8UoVOLABF_p-hsztUQ81&index=14) a [17](https://www.youtube.com/watch?v=PKx8YqBgpEk&list=PLtQaN06AB3mJq8UoVOLABF_p-hsztUQ81&index=17) para entender melhor)
+* Vídeos [25](https://www.youtube.com/watch?v=v4-SzxLleg4&list=PLtQaN06AB3mJq8UoVOLABF_p-hsztUQ81&index=25) a [28](https://www.youtube.com/watch?v=WlX5q_TIFXo&list=PLtQaN06AB3mJq8UoVOLABF_p-hsztUQ81&index=28) da playlist (pode ser útil adiantar de [14](https://www.youtube.com/watch?v=PKx8YqBgpEk&list=PLtQaN06AB3mJq8UoVOLABF_p-hsztUQ81&index=14) a [17](https://www.youtube.com/watch?v=Vova4bjnEro&list=PLtQaN06AB3mJq8UoVOLABF_p-hsztUQ81&index=17) para entender melhor)
 
 ### Avaliações
 
@@ -67,7 +67,7 @@ Aulas às terças-feiras, das 08:00 às 12:00, no DC — LE-3.
 ### Materiais para estudo
 
 * Capítulo 4 e 5 do Kurose
-* Vídeos [14](https://www.youtube.com/watch?v=v4-SzxLleg4&list=PLtQaN06AB3mJq8UoVOLABF_p-hsztUQ81&index=25) a [24](https://www.youtube.com/watch?v=WlX5q_TIFXo&list=PLtQaN06AB3mJq8UoVOLABF_p-hsztUQ81&index=28) da playlist 
+* Vídeos [14](https://www.youtube.com/watch?v=PKx8YqBgpEk&list=PLtQaN06AB3mJq8UoVOLABF_p-hsztUQ81&index=14) a [24](https://www.youtube.com/watch?v=-7JB3QTykAQ&list=PLtQaN06AB3mJq8UoVOLABF_p-hsztUQ81&index=24) da playlist
 * Vídeos [29](https://www.youtube.com/watch?v=cFhlvrZ1hKY&list=PLtQaN06AB3mJq8UoVOLABF_p-hsztUQ81&index=29) a [31](https://www.youtube.com/watch?v=xhtvKJ1mzwI&list=PLtQaN06AB3mJq8UoVOLABF_p-hsztUQ81&index=31) da playlist
 
 ### Avaliações
@@ -84,7 +84,7 @@ Aulas às terças-feiras, das 08:00 às 12:00, no DC — LE-3.
 ### Materiais para estudo
 
 * Capítulo 6 do Kurose
-* Vídeos [32](https://www.youtube.com/watch?v=v4-SzxLleg4&list=PLtQaN06AB3mJq8UoVOLABF_p-hsztUQ81&index=32) a [37](https://www.youtube.com/watch?v=WlX5q_TIFXo&list=PLtQaN06AB3mJq8UoVOLABF_p-hsztUQ81&index=37) da playlist 
+* Vídeos [32](https://www.youtube.com/watch?v=Kah_0HkRLSo&list=PLtQaN06AB3mJq8UoVOLABF_p-hsztUQ81&index=32) a [37](https://www.youtube.com/watch?v=NXvHXrosUJw&list=PLtQaN06AB3mJq8UoVOLABF_p-hsztUQ81&index=37) da playlist
 
 ### Avaliações
 
